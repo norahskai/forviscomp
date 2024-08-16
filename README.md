@@ -1,3 +1,8 @@
+You can view the application here...Visit
+
+https://visualiseandcomparisiontool.netlify.app
+
+
 Visualization and Comparison Tool
 Overview:
 This project is a web-based application designed to visualize and compare material data across different years and months. It uses a React frontend to interact with a Node.js backend connected to a MongoDB database. Users can select a year, material, and months to visualize trends or compare changes.
