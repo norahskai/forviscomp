@@ -26,6 +26,7 @@ Installation and Setup:
 1.Clone the repository:
 
 git clone https://github.com/your-username/visualization-comparison-tool.git
+
 cd visualization-comparison-tool
 
 
@@ -83,5 +84,21 @@ How to Use
 4.Select Months: Choose two months to compare changes.
 
 5.Compare Data: Click "Compare" to see a bar chart of percentage change between the two months.
+
+
+Future Enhancements:
+
+Add user authentication for personalized data access.
+
+Implement data export features for reports.
+
+Enhance chart interactivity with advanced tooltips and filtering options.
+
+
+Contributing:
+
+Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
+
+Contact: caroline.kar9@gmail.com
 
 
